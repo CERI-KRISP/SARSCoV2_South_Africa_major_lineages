@@ -1,4 +1,4 @@
-# Major new lineages of SARS-CoV-2 emerge and spread in South Africa during lockdown
+# Sixteen novel lineages of SARS-CoV-2 in South Africa
 
 Authors: Houriiyah Tegally1*, Eduan Wilkinson1*, Richard R Lessells1, Jennifer Giandhari1, Sureshnee Pillay1, Nokukhanya Msome2, Koleka Mlisana3, Jinal Bhiman4, Mushal Allam4, Susan Engelbrecht5, Gert Van Zyl5, Wolfgang Preiser5, Carolyn Willianson6, Diana Hardie6, Marvin Hsiao6, Darren Martin7, Denis York8, Domenique Goedhals9, Marta Giovanetti10, Jose Lourenco11, Emmanuel James San1, Luiz Carlos Junior Alcantara10,11 and Tulio de Oliveira1,12,13
 
